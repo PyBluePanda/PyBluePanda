@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cheeseplant_leaves.png" alt="GitHub Banner" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
