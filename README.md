@@ -1,15 +1,19 @@
 <p align="center">
   <img src="header.png" alt="GitHub Banner" width="100%">
 </p>
-## Hi there 👋
 
-<!--
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 
+My name is Sam Vautier 
 
 🌱 **Data Engineer turned Data Scientist**  
 🔎 Passionate about **geospatial analysis, network science, and graph theory**  
 🐍 Pythonista | 📍 GeoPandas | 📊 NetworkX  
 
+[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--
 ---
 
 ## 🔥 About Me
