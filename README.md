@@ -1,9 +1,11 @@
+<!--
 <p align="center">
   <img src="header.png" alt="GitHub Banner" width="100%">
 </p>
+-->
 
-# Hi there! 👋 
-My name is Sam Vautier 
+Hi there! 👋 
+My name is **Sam Vautier**
 
 🌱 **Data Engineer turned Data Scientist**  
 🔎 Passionate about **geospatial analysis, network science, and graph theory**  
