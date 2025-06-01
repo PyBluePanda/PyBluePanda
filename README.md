@@ -3,18 +3,23 @@
   <img src="header.png" alt="GitHub Banner" width="100%">
 </p>
 -->
+### Hi there! 👋 <br>
+My name is **Sam Vautier** <br>
+This is my personal GitHub account.
 
-Hi there! 👋 
-My name is **Sam Vautier**
+[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+### My work Github account is here: <br>
+[Sam Vautier - Github @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 
 🌱 **Data Engineer turned Data Scientist**  
 🔎 Passionate about **geospatial analysis, network science, and graph theory**  
 🐍 Pythonista | 📍 GeoPandas | 📊 NetworkX  
 
-[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+### 👫 Let's Connect!
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 <!--
 ---
 https://github.com/DomRowney/Project_Toy_MECC.git
@@ -35,8 +40,6 @@ https://github.com/DomRowney/Project_Toy_MECC.git
 🔹 **[Project Name](GitHub Repo Link)** - Short description  
 🔹 **[Project Name](GitHub Repo Link)** - Short description  
 
-## 👫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](Your GitHub URL)
 
 -->
