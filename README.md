@@ -8,6 +8,7 @@ My name is **Sam Vautier** <br>
 This is my personal GitHub account.
 
 [![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/user-attachments/assets/f32d977c-bcbe-4719-9024-bff256c20b11" alt="Alt Text" style="width:20%; height:auto; border: 15px solid white;">
 
 ### My work Github account is here: <br>
 [Sam Vautier - Github @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
@@ -43,3 +44,4 @@ https://github.com/DomRowney/Project_Toy_MECC.git
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](Your GitHub URL)
 
 -->
+
