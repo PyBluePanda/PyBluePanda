@@ -8,6 +8,7 @@ My name is **Sam Vautier** <br>
 This is my personal GitHub account.
 
 [![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
