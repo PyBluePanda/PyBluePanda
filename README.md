@@ -11,7 +11,7 @@ This is my personal GitHub account.
 
 
 
-![Snake animation](https://github.com/<PyBluePanda>/<PyBluePanda>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
 
 
 
