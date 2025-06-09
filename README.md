@@ -10,9 +10,7 @@ This is my personal GitHub account.
 [![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
-
 
 
 ---
@@ -33,6 +31,9 @@ This is my personal GitHub account.
 <img src="https://github.com/user-attachments/assets/f32d977c-bcbe-4719-9024-bff256c20b11" alt="Alt Text" style="width:20%; height:auto; border: 15px solid white;">
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/PyBluePanda/PyBluePanda/output/github-contribution-grid-snake.svg)
+
 
 
 https://github.com/DomRowney/Project_Toy_MECC.git
