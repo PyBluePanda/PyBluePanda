@@ -9,10 +9,9 @@ This is my personal GitHub account.
 
 [![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBluePanda&layout=compact&theme=gotham)
 
 ![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
-
-
 ---
 
 ### My work Github account is here: <br>
