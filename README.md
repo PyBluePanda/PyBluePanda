@@ -24,7 +24,8 @@ This is my personal GitHub account.
 
 ### 👫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samantha-vautier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-vautier)
+
 <!--
 ---
 <img src="https://github.com/user-attachments/assets/f32d977c-bcbe-4719-9024-bff256c20b11" alt="Alt Text" style="width:20%; height:auto; border: 15px solid white;">
