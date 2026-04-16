@@ -1,9 +1,11 @@
-## Hi, I'm Sam
-
+### Hi, I'm Sam
+---
 I'm a Data Scientist with a passion for **Network Science** and **Geospatial Analysis** with a background in **Data Engineering** and **Business Intelligence**.
 
 🌱 &nbsp;Currently exploring star maps and data visualisations.  
 🐍 &nbsp;Pythonista — NetworkX · GeoPandas · Streamlit  
+🇪🇸 &nbsp;Learning Spanish with Duolingo
+
 🔗 &nbsp;Work GitHub — [sam-vautier @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-vautier)
@@ -29,7 +31,6 @@ I'm a Data Scientist with a passion for **Network Science** and **Geospatial Ana
 </table>
 </div>
 
-
 ### Tools & technologies
 ---
 
@@ -39,6 +40,11 @@ I'm a Data Scientist with a passion for **Network Science** and **Geospatial Ana
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Other Interests
+---
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![Stellarium](https://img.shields.io/badge/Stellarium-080820?style=for-the-badge&logo=nasa&logoColor=white)
 
 <!--
 ![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
