@@ -2,9 +2,9 @@
 
 I'm a Data Scientist with a passion for **Network** and **Geospatial** analysis with a background in **Data Engineering** and **Business Intelligence**.
 
-🌱 &nbsp;Currently exploring the intersection of graph theory and spatial data  
+🌱 &nbsp;Currently exploring star maps and data visulisations  
 🐍 &nbsp;Pythonista — NetworkX · GeoPandas · Streamlit  
-🔗 &nbsp;Work account: [sam-vautier @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
+🔗 &nbsp;Work GitHub — [sam-vautier @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-vautier)
 
@@ -37,6 +37,7 @@ I'm a Data Scientist with a passion for **Network** and **Geospatial** analysis 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=graphql&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <!--
