@@ -1,6 +1,6 @@
 ## Hi, I'm Sam
 
-I'm a Data Scientist with a passion for **Network** and **Geospatial** analysis with a background in **Data Engineering** and **Business Intelligence**.
+I'm a Data Scientist with a passion for **Network Science** and **Geospatial Analysis** with a background in **Data Engineering** and **Business Intelligence**.
 
 🌱 &nbsp;Currently exploring star maps and data visualisations.  
 🐍 &nbsp;Pythonista — NetworkX · GeoPandas · Streamlit  
