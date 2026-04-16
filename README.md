@@ -2,7 +2,7 @@
 
 I'm a Data Scientist with a passion for **Network** and **Geospatial** analysis with a background in **Data Engineering** and **Business Intelligence**.
 
-🌱 &nbsp;Currently exploring star maps and data visulisations  
+🌱 &nbsp;Currently exploring star maps and data visualisations.  
 🐍 &nbsp;Pythonista — NetworkX · GeoPandas · Streamlit  
 🔗 &nbsp;Work GitHub — [sam-vautier @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 
