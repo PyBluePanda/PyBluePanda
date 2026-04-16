@@ -1,55 +1,55 @@
-<!--
-<p align="center">
-  <img src="header.png" alt="GitHub Banner" width="100%">
-</p>
--->
-### Hey there! 👋 <br>
-### My name is **Sam Vautier** <br>
-This is my personal GitHub account.
+## Hi, I'm Sam 👋
 
-[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Data Scientist with a passion for **network science** and **geospatial analysis** with a background in **Data Engineering** and **Business Intelligence**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBluePanda&layout=compact&theme=gotham)
-
-![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
----
-
-### My work Github account is here: <br>
-[Sam Vautier - Github @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
-
-🌱 **Data Engineer turned Data Scientist**  
-🔎 Passionate about **network science and geospatial analysis.**  
-🐍 Pythonista | 📊 NetworkX |📍 GeoPandas |
-
-
-### 👫 Let's Connect!
+🌱 &nbsp;Currently exploring the intersection of graph theory and spatial data  
+🐍 &nbsp;Pythonista — NetworkX · GeoPandas · Streamlit  
+🔗 &nbsp;Work account: [sam-vautier @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-vautier)
 
-<!--
+<br>
+
+### Tools & technologies
 ---
-<img src="https://github.com/user-attachments/assets/f32d977c-bcbe-4719-9024-bff256c20b11" alt="Alt Text" style="width:20%; height:auto; border: 15px solid white;">
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=graphql&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-![Snake animation](https://raw.githubusercontent.com/PyBluePanda/PyBluePanda/output/github-contribution-grid-snake.svg)
+<br>
 
+### GitHub Stats
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+<div align="center">
+<table border="0">
+<tr>
+<td>
 
-https://github.com/DomRowney/Project_Toy_MECC.git
+[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyBluePanda&theme=gotham&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyBluePanda&layout=compact&theme=gotham)
+
+</td>
+</tr>
+</table>
+</div>
+
+<!--
+![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## 🔥 About Me
 - 🚀 Transitioned from data engineering to data science in the last year
 - 🟢 Love working with **geospatial data** and graph-based problems
 - 🏢 Experienced in **ETL pipelines**, **big data processing**, and **data visualization**
 - 💡 Currently exploring **AI for geospatial analytics**
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 🚀 Featured Projects
 🔹 **[Project Name](GitHub Repo Link)** - Short description  
@@ -57,5 +57,16 @@ https://github.com/DomRowney/Project_Toy_MECC.git
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](Your GitHub URL)
 
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
