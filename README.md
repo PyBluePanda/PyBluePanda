@@ -1,4 +1,4 @@
-## Hi, I'm Sam 👋
+## Hi, I'm Sam
 
 I'm a Data Scientist with a passion for **network science** and **geospatial analysis** with a background in **Data Engineering** and **Business Intelligence**.
 
@@ -8,18 +8,6 @@ I'm a Data Scientist with a passion for **network science** and **geospatial ana
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-vautier)
 
-<br>
-
-### Tools & technologies
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=graphql&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<br>
 
 ### GitHub Stats
 ---
@@ -40,6 +28,16 @@ I'm a Data Scientist with a passion for **network science** and **geospatial ana
 </tr>
 </table>
 </div>
+
+
+### Tools & technologies
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=graphql&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <!--
 ![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
