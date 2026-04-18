@@ -38,6 +38,7 @@ I'm a Data Scientist with a passion for **Network Science** and **Geospatial Ana
 ![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=graphql&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAJElEQVR42mNgYGD4D8QgxX8GCnAQTWDAgAQGIAxEKVMU0gAAgwAOVmVefpRCNwAAAABJRU5ErkJggg==)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Data%20Viz-6c757d?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75)
 ![Dash](https://img.shields.io/badge/Dash-Apps-6c757d?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
