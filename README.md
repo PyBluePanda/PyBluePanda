@@ -5,7 +5,6 @@ I'm a Data Scientist with a passion for **Network Science** and **Geospatial Ana
 🌱 &nbsp;Currently exploring star maps and data visualisations.  
 🐍 &nbsp;Pythonista — NetworkX · GeoPandas · Streamlit · Plotly  
 💃🏻 &nbsp;Learning Spanish with Duolingo  
-🔗 &nbsp;Work GitHub — [sam-vautier @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-vautier)
 
@@ -51,7 +50,7 @@ I'm a Data Scientist with a passion for **Network Science** and **Geospatial Ana
 
 <!--
 ![Snake animation](https://github.com/PyBluePanda/PyBluePanda/blob/output/github-contribution-grid-snake.svg)
-
+🔗 &nbsp;Work GitHub — [sam-vautie @ Somerset NHS Foundation Trust](https://github.com/sam-vautier)
 ---
 ## 🔥 About Me
 - 🚀 Transitioned from data engineering to data science in the last year
